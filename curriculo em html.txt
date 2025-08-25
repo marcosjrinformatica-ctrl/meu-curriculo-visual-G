@@ -1,0 +1,23 @@
+<!DOCTYPE 
+ <html lang="pt-br">
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device, initial-scale=1.0">
+ <title>curriculo marcos junior</title>
+     <body>
+    <section>
+       <h2>informações pessoais</h2>
+        <u1>
+         <li>Marcos pereira da silva junior</li>
+         <li>rua dragão do mar,04,bairro:brasilia teimosa,Recife-pe</li>
+         <li>masulino</li>
+         <li>20 anos</li>
+        </u1>
+    </section>
+    <section>
+         <h2>informações de contato</h2>
+        <u1>
+        <li>telefone:(81)0000-0000</li>  
+        <li>email:marcosjrinfomartica@gmail.com</li>  
+        </ul>
+    </section>                                                                                                                                                                                                                                                  
+    </body>
