@@ -1,11 +1,11 @@
-<h1 style= "color:white;padding:30px;">Titulo site</h1>
+<h1 style= "color:white;padding:30px;">Titulo site</h1
  <html lang="pt-br">
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device, initial-scale=1.0">
  <title>curriculo marcos junior</title>
      <body>
     <section>
-       <h2>--------informações pessoais--------</h2>
+       <h2>style= "color:blue;padding:30px;">Titulo site</h1>--------informações pessoais--------</h2>
         <u1>
          <li>Marcos pereira da silva junior</li>
          <li>rua dragão do mar,04,bairro:brasilia teimosa,Recife-pe</li>
@@ -14,7 +14,7 @@
         </u1>
     </section>
     <section>
-         <h2>--------informações de contato--------</h2>
+         <h2>style= "color:Green;padding:30px;">Titulo site</h1>--------informações de contato--------</h2>
         <u1>
         <li>telefone:(81)0000-0000</li>  
         <li>email:marcosjrinfomartica@gmail.com</li>  
@@ -23,9 +23,11 @@
 
 
     </section>                                                                                                                                                                                                                                                  
-<h2>--------experiência de trabalho--------</h2>
+<h2>style= "color:blue;padding:30px;">Titulo site</h1>
+-------experiência de trabalho--------</h2>
         <u1>
-        <li>trabelhei de garçom no bar de dezembro de 2023 a março de 2025 </li>  
+        <li>trabelhei de garçom no bar de dezembro de 2023 a março de 2025 </li> 
+
         <li>trabalhei como voluntário como secretário de uma biblioteca de março de 2025 a maio 2025</li>  
 
         <li>e hoje trabalho como secretário de biblioteca de uma escola pública desde maio de 2025</li>
@@ -35,4 +37,5 @@
 
    
 </body>
+
 
