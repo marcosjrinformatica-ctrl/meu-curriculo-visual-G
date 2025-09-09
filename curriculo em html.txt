@@ -33,9 +33,17 @@
         <li>e hoje trabalho como secretário de biblioteca de uma escola pública desde maio de 2025</li>
         </ul>
 
+<h2>style= "color:red;padding:30px;">Titulo site</h1>
+-------o que eu quero realmente fazer na área de ti--------</h2>
+
+         <li>tenho como objetivo concluir a área de para poder trabalhar fora e fazer programação por dolar ou em euros para aumentar mais o meu desenvolvimento dessa área</li>
+            
+        <u1>
+
     </section>
 
    
 </body>
+
 
 
